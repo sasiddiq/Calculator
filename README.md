@@ -1,5 +1,19 @@
-<Error>
-<Code>AuthenticationFailed</Code>
-<Message>Server failed to authenticate the request. Make sure the value of Authorization header is formed correctly including the signature. RequestId:9922db32-e01e-0070-2eb9-b06d77000000 Time:2025-04-18T23:25:51.4227033Z</Message>
-<AuthenticationErrorDetail>Signed expiry time [Fri, 18 Apr 2025 23:16:59 GMT] must be after signed start time [Fri, 18 Apr 2025 23:25:51 GMT]</AuthenticationErrorDetail>
-</Error>
+# 🧮 Calculator (Java)
+
+A simple command-line calculator built using Java and Eclipse. This project allows users to perform basic arithmetic operations like addition, subtraction, multiplication, and division.
+
+## 🚀 Features
+- User input with `Scanner`
+- Supports +, -, *, /
+- Menu-driven interface with switch-case
+
+## 📂 How to Run
+1. Clone the repo or download the `.java` file
+2. Open in Eclipse or any IDE
+3. Run the file and follow the prompts
+
+## 👨‍💻 Skills Used
+- Java basics
+- Switch statements
+- Scanner class
+- Input/output handling
